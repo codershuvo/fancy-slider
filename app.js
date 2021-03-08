@@ -1,4 +1,4 @@
-// added spinner for bonus
+// 1. added spinner for bonus
 
 
 const imagesArea = document.querySelector('.images');
